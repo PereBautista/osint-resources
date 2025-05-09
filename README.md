@@ -1,6 +1,6 @@
 # OSINT resources
 
-[Aplicación de Streamlit](https://osint-resources-aw3cmecd3yvwb4dqx2ffge.streamlit.app)
+[Aplicación de Streamlit](https://osint-resources-jmxc5tg6uheukqu86hzwrv.streamlit.app/)
 
 Esta aplicación es una colección de recursos de Inteligencia de Fuentes Abiertas (OSINT), diseñada para ayudar a investigadores, analistas y cualquier persona interesada en recopilar información disponible públicamente. Proporciona una interfaz de búsqueda y filtrado para descubrir diversas herramientas y sitios web categorizados por sus tipos de entrada y funcionalidades.
 
